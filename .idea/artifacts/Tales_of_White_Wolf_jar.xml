@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tales-of-White-Wolf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tales_of_White_Wolf_jar</output-path>
+    <root id="archive" name="Tales-of-White-Wolf.jar">
+      <element id="module-output" name="Tales-of-White-Wolf" />
+    </root>
+  </artifact>
+</component>
